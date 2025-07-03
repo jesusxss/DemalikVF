@@ -1,0 +1,1 @@
+Sesión incompleta: {"id_usuario":12,"email":"ventas.demalik@gmail.com","nombre_usuario":"ventas","tipo":1}

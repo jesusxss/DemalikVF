@@ -1,0 +1,5 @@
+[2025-07-03 01:33:10] Acción: Eliminó/bajó el usuario ID: 168
+[2025-07-03 01:46:06] Acción: Modificó el usuario ID: 167 (cauqui@autonoma.edu.pe)
+[2025-07-03 01:49:28] Acción: Modificó el usuario ID: 167 (cauqui@autonoma.edu.pe)
+[2025-07-03 01:55:17] Acción: Eliminó/bajó el usuario ID: 167
+{"id_usuario":12,"email":"ventas.demalik@gmail.com","nombre_usuario":"ventas","tipo":1} Acción: Modificó el usuario ID: 164 (lalo@gmail.com)
